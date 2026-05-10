@@ -43,6 +43,7 @@
 | Skill | 说明 | 适用场景 |
 |------|------|---------|
 | [prompt-asset-director](./skills/prompt-asset-director/SKILL.md) | 提示词资产导演：整理、优化、分类并版本化可复用提示词 | 提示词库 / GPT人设 / AI生图 / AI视频 / 内容创作 |
+| [seedance-storyboard-director-skill](https://github.com/ma8899174yu/seedance-storyboard-director-skill) | Seedance 分镜导演：逐镜锁定分镜、角色一致性与视频提示词 | Seedance 2.0 / AI视频分镜 / 短片镜头脚本 |
 
 ## 🛠️ 技术栈
 
