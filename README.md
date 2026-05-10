@@ -2,25 +2,68 @@
 
 <div align="center">
 
-![Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&background=1a1a2e&center=true&vCenter=true&random=false&width=435&lines=%E8%AE%A9AI%E6%8A%80%E6%9C%AF%E6%83%A0%E5%8F%8A%E6%AF%8F%E4%B8%AA%E4%BA%BA)
+![Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&background=1a1a2e&center=true&vCenter=true&random=false&width=520&lines=AI%E5%B7%A5%E4%BD%9C%E6%B5%81+%2F+ComfyUI+%2F+AI%E8%A7%86%E9%A2%91;%E8%AE%A9AI%E5%88%9B%E4%BD%9C%E5%8F%98%E5%BE%97%E6%9B%B4%E5%8F%AF%E6%8E%A7%E3%80%81%E6%9B%B4%E5%8F%AF%E5%A4%8D%E7%94%A8)
 
 <p align="center">
   <a href="https://space.bilibili.com/3546745917148074" target="_blank">
     <img src="https://img.shields.io/badge/B%E7%AB%99-%E6%BA%90%E5%8A%9B%E9%AD%94%E6%96%B9%E7%A0%94%E7%A9%B6%E6%89%80-00A1D6?style=flat-square&logo=bilibili" alt="B站"/>
   </a>
-  <img src="https://img.shields.io/badge/GitHub-MA8899174YU-181717?style=flat-square&logo=github" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/%E4%B8%93%E6%B3%95-AI%E5%88%9B%E4%BD%9C-FF6B6B?style=flat-square" alt="专法"/>
+  <img src="https://img.shields.io/badge/GitHub-ma8899174yu-181717?style=flat-square&logo=github" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/%E4%B8%93%E6%B3%A8-AI%E5%B7%A5%E4%BD%9C%E6%B5%81-FF6B6B?style=flat-square" alt="专注AI工作流"/>
+  <img src="https://img.shields.io/badge/ComfyUI-Workflow-00D9FF?style=flat-square" alt="ComfyUI Workflow"/>
 </p>
 
 </div>
 
 ## 🎯 关于我
 
-- 🔭 **专注领域**：AI绘图、Stable Diffusion、ComfyUI工作流、提示词优化
-- 🌱 **正在学习**：AI视频生成、多模态模型应用
-- 👨‍💻 **使用技术**：Python / JavaScript / ComfyUI / Stable Diffusion
-- 🎬 **B站内容**：AI创作教学与实战分享
-- 📫 **联系方式**：B站私信 / 微信：xxx（备注GitHub）
+我关注 AI 创作从“单次生成”走向“可复用工作流”的过程，主要整理 ComfyUI、AI 生图、AI 视频、提示词资产和云端工作流相关内容。
+
+- 🔭 **专注领域**：AI 生图、ComfyUI 工作流、AI 视频、提示词工程
+- 🌱 **正在推进**：AI 工作流扫盲、国产/开源模型观察、Seedance 分镜提示词
+- 🧰 **常用工具**：ComfyUI / Stable Diffusion / RunningHub / Python / JavaScript
+- 🎬 **B站内容**：AI 创作教程、工作流拆解、模型与工具观察
+- 📫 **联系我**：B站私信，或通过 GitHub Issues 交流
+
+## 🧭 内容方向
+
+| 方向 | 说明 |
+|------|------|
+| AI 工作流扫盲 | 用新手能理解的方式解释模型、节点、工作流和平台选择 |
+| ComfyUI 实操 | 工作流导入、节点理解、报错排查、案例拆解 |
+| AI 视频创作 | 分镜、首尾帧、角色一致性、镜头提示词 |
+| 提示词资产管理 | 将一次性 prompt 整理成可复用、可分类、可迭代的资产 |
+| 工具与模型观察 | 记录开源模型、云端平台和创作工具的新变化 |
+
+## 🧩 Codex Skills
+
+这个仓库同时收纳我正在使用和迭代的 Codex Skills。
+
+| Skill | 说明 | 适用场景 |
+|------|------|---------|
+| [prompt-asset-director](./skills/prompt-asset-director/SKILL.md) | 提示词资产导演：整理、优化、分类并版本化可复用提示词 | 提示词库 / GPT 人设 / AI 生图 / AI 视频 / 内容创作 |
+| [seedance-storyboard-director](./skills/seedance-storyboard-director/SKILL.md) | Seedance 分镜导演：逐镜锁定分镜、角色一致性与视频提示词 | Seedance 2.0 / AI 视频分镜 / 短片镜头脚本 |
+
+## 🚀 热门项目
+
+| 项目 | 说明 | 状态 |
+|------|------|------|
+| [ai-prompt-templates](https://github.com/ma8899174yu/ai-prompt-templates) | AI 绘图与内容创作提示词模板库 | 规划中 |
+| [sd-workflows](https://github.com/ma8899174yu/sd-workflows) | Stable Diffusion / ComfyUI 工作流分享 | 规划中 |
+| [prompt-asset-director](./skills/prompt-asset-director/SKILL.md) | 可复用提示词资产管理 Skill | 已整理 |
+| [seedance-storyboard-director](./skills/seedance-storyboard-director/SKILL.md) | Seedance 2.0 分镜导演 Skill | 已整理 |
+
+## 🛠️ 技术栈
+
+<p align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Stable Diffusion](https://img.shields.io/badge/Stable%20Diffusion-FF6B6B?style=flat-square)
+![ComfyUI](https://img.shields.io/badge/ComfyUI-00D9FF?style=flat-square)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown)
+
+</p>
 
 ## 📊 GitHub 数据
 
@@ -31,41 +74,12 @@
 
 </div>
 
-## 🚀 热门项目
-
-| 项目 | ⭐ | 说明 | 配套视频 |
-|------|---|------|---------|
-| [ai-prompt-templates](https://github.com/ma8899174yu/ai-prompt-templates) | - | 精选AI绘图提示词模板库 | [B站教程](https://space.bilibili.com/3546745917148074) |
-| [sd-workflows](https://github.com/ma8899174yu/sd-workflows) | - | Stable Diffusion工作流分享 | 制作中 |
-
-## 🧩 Codex Skills
-
-| Skill | 说明 | 适用场景 |
-|------|------|---------|
-| [prompt-asset-director](./skills/prompt-asset-director/SKILL.md) | 提示词资产导演：整理、优化、分类并版本化可复用提示词 | 提示词库 / GPT人设 / AI生图 / AI视频 / 内容创作 |
-| seedance-storyboard-director-skill（待创建远端仓库） | Seedance 分镜导演：逐镜锁定分镜、角色一致性与视频提示词 | Seedance 2.0 / AI视频分镜 / 短片镜头脚本 |
-
-## 🛠️ 技术栈
-
-<p align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Stable Diffusion](https://img.shields.io/badge/Stable%20Diffusion-FF6B6B?style=flat-square)
-![ComfyUI](https://img.shields.io/badge/ComfyUI-00D9FF?style=flat-square)
-
-</p>
-
-## 📈 Contribution 活跃度
-
-![Contribution](https://activity-graph.herokuapp.com/graph?username=ma8899174yu&theme=dracula&hide_border=true)
-
 ---
 
 <div align="center">
 
-**⭐ 欢迎 Star 和 Fork！如果对你有帮助的话**
+**持续整理 AI 工作流、ComfyUI、AI 视频和提示词资产。**
 
-*让AI技术惠及每个人*
+*让 AI 创作更可控，也更可复用。*
 
 </div>

@@ -1,0 +1,7 @@
+interface:
+  display_name: "Seedance 分镜导演"
+  short_description: "为 Seedance 2.0 设计分镜、角色一致性与视频提示词"
+  default_prompt: "Use $seedance-storyboard-director to turn this story idea into locked storyboard shots and Seedance 2.0 prompts."
+
+policy:
+  allow_implicit_invocation: true
