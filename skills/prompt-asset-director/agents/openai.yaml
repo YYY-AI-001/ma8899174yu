@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "提示词资产导演"
+  short_description: "将零散提示词整理、优化、分类并沉淀为可复用资产库"
+  default_prompt: "Use $prompt-asset-director to turn this rough prompt into a reusable prompt asset."
+
+policy:
+  allow_implicit_invocation: true

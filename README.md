@@ -38,6 +38,12 @@
 | [ai-prompt-templates](https://github.com/ma8899174yu/ai-prompt-templates) | - | 精选AI绘图提示词模板库 | [B站教程](https://space.bilibili.com/3546745917148074) |
 | [sd-workflows](https://github.com/ma8899174yu/sd-workflows) | - | Stable Diffusion工作流分享 | 制作中 |
 
+## 🧩 Codex Skills
+
+| Skill | 说明 | 适用场景 |
+|------|------|---------|
+| [prompt-asset-director](./skills/prompt-asset-director/SKILL.md) | 提示词资产导演：整理、优化、分类并版本化可复用提示词 | 提示词库 / GPT人设 / AI生图 / AI视频 / 内容创作 |
+
 ## 🛠️ 技术栈
 
 <p align="center">
